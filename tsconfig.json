@@ -4,6 +4,6 @@
     "outDir": "./dist",
     "sourceMap": true
   },
-  "include": ["./Esercizi/*.ts"],
-  "exclude": [".Esercizi/*.test.ts"]
+  "include": ["./Esercizi/*/*.ts"],
+  "exclude": [".Esercizi/*/*.test.ts"]
 }
