@@ -1,0 +1,24 @@
+{
+  "name": "esercizio6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --write ."
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "prettier": "2.7.1",
+    "prisma": "^4.2.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.2.1"
+  }
+}
